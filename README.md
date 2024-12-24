@@ -1,2 +1,3 @@
 # Iceberg2004
- hey there!Its manglam here...
+ Hey there!My name is Manglam Panse
+ This repo consists of all the dsa topics and its quetions that I have had learned during my dsa journey.
